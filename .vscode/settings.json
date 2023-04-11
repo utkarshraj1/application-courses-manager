@@ -1,0 +1,13 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescript]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true
+  },
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false
+}

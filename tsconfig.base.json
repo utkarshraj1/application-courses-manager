@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@cosmic-ui/common-components": ["libs/common-components/src/index.ts"],
+      "@application-courses-manager/common-components": [
+        "libs/common-components/src/index.ts"
+      ],
       "@application-course-manager/course-ui": ["libs/course-ui/src/index.ts"],
       "@application-course-manager/ui-utils": ["libs/ui-utils/src/index.ts"]
     }

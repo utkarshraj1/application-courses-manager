@@ -1,16 +1,7 @@
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import styles from './app.module.scss';
-
-import NxWelcome from './nx-welcome';
+import { RootComponent } from '@application-course-manager/course-ui';
 
 export function App() {
-  return (
-    <>
-      <NxWelcome title="course" />
-
-      <div />
-    </>
-  );
+  return <RootComponent />;
 }
 
 export default App;

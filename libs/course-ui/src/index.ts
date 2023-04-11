@@ -1,1 +1,1 @@
-export * from './lib/course-ui';
+export * from './lib';
